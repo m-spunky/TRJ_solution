@@ -1,11 +1,23 @@
-# Travel app
+# Airtravel 
+## By Team Phoenix
+An Traveling app which aims to establish a vibrant community of travelers.
+
 
 ## Installation
-
+Install app-release.apk <br> Or <br>
 Run below command in your terminal for run app on your local environment.
-'''flutter run'''
+```bash
+flutter run
+```
 
-## Images of application
+## Documentation
+![img1](https://github.com/m-spunky/TRJ_solution/assets/132647513/d79a3466-f294-4741-9913-e17c99e2ca5d)
+![img2](https://github.com/m-spunky/TRJ_solution/assets/132647513/945cee24-83dd-45b7-97a6-543f5ddf9d8c)
+![img3](https://github.com/m-spunky/TRJ_solution/assets/132647513/3b46232d-9595-4ee0-9c3e-94aff771ad68)
+
+<br>
+
+## Prototype
 <p float="left">
   <img src="https://github.com/Kailash8799/Travelapp_Flutter/assets/98249911/d97ac835-16a1-4f23-a1f6-ae19e23eb247" width="30%" />
   <img src="https://github.com/Kailash8799/Travelapp_Flutter/assets/98249911/84b2c9da-dabd-4c6b-a2e8-41a65f027818" width="30%" />
